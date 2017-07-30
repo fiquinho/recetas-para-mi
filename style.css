@@ -1,0 +1,42 @@
+/*
+ Theme Name:   Zerif Lite Child
+ Theme URI:    http://recetasparami-com.stackstaging.com/wordpress/wp-content/themes/zerif-lite-child/
+ Description:  Zerif Lite Child Theme
+ Author:       Federico Bogado
+ Author URI:   http://ficobogado.com
+ Template:     zerif-lite
+ Version:      Version: 1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: one-column, two-columns, right-sidebar,full-width-template,rtl-language-support,sticky-post,theme-options, custom-background, custom-menu, editor-style, featured-images, threaded-comments, translation-ready, footer-widgets, portfolio, e-commerce, blog
+*/
+body {
+    height: 100%;
+}
+
+.home-header-wrap {
+    height: 100vh;
+}
+
+.header-content-wrap {
+    height: 100%;
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    padding: 0;
+}
+
+.header-content-wrap .container-fluid {
+    height: 300px;
+    margin: auto;
+    display: flex;
+
+}
+
+.header-content-wrap .container-fluid h2 {
+    margin: auto;
+}
+
+.header-content-wrap .buttons {
+    display: none;
+}
